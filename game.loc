@@ -465,21 +465,21 @@ Oct.Abilities.Vulnerable.description=Ziel hat für 1 Std. -10 Rüstung<br>5 Feld
 \\	Oct.Belongings.Manager.autoClaimTooltip=Auto Claim allows Mortals to claim the Gear they prefer for each slot from the available Claimables.<br><br>Mortals choose in order of Title, followed by Maturity, then Ambition. They take into account Preferences, Skills, Job Assignments, Wants and Gear Buffs.<br><br>They do not claim more than they need nor do they consider the desires of other Mortals.<br><br>Gear is automatically marked Claimable if it passes the Claimable Rules. You can override the Claimable flag per Item.<br><br>The Auto Claim Rules dictate the additional rules that your Mortals must follow when claiming a Claimable.<br><br>You can override a Mortal's choices by Giving or Taking Items from them at any time.
 \\
 \\\\
-Oct.Belongings.Manager.autoClaimTooltip=\\untranslated
+Oct.Belongings.Manager.autoClaimTooltip=Automatisches Beanspruchen ermöglicht es Sterblichen, aus den verfügbaren beanspruchbaren Gegenständen für jeden Slot die gewünschte Ausrüstung zu beanspruchen.<br><br>Sterbliche wählen in der Reihenfolge Titel, gefolgt von Entwicklung und dann Ambition. Sie berücksichtigen Vorlieben, Fertigkeiten, zugeteilte Jobs, Wünsche und Ausrüstungsbuffs.<br><br>Sie beanspruchen nicht mehr, als sie benötigen, und berücksichtigen auch nicht die Wünsche anderer Sterblicher.<br><br>Ausrüstung wird automatisch als beanspruchbar markiert, wenn sie die Regeln für beanspruchbare Gegenstände erfüllt. Du kannst die Markierung „Beanspruchbar“ für jeden Gegenstand überschreiben.<br><br>Die Regeln für das automatische Beanspruchen legen die zusätzlichen Regeln fest, die deine Sterblichen befolgen müssen, wenn sie einen beanspruchbaren Gegenstand beanspruchen.<br><br>Du kannst die Entscheidungen von Sterblichen jederzeit überschreiben, indem du ihnen Gegenstände gibst oder wegnimmst.
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoJunkTooltip=Auto Junk allows you to define a set of Rules that will cause Items to be automatically considered Junk by your Mortals.<br><br>Junk can be stored separately from other Items (or not at all) and is easier to filter out and sell.<br><br>There are several disabled Rules in the list that can be beneficial to enable as your game progresses.
 \\
 \\\\
-Oct.Belongings.Manager.autoJunkTooltip=\\untranslated
+Oct.Belongings.Manager.autoJunkTooltip=Autoschrott ermöglicht es dir, eine Reihe von Regeln zu definieren, durch die Gegenstände von deinen Sterblichen automatisch als Schrott eingestuft werden.<br><br>Schrott kann getrennt von anderen Gegenständen (oder gar nicht) gelagert werden und lässt sich leichter herausfiltern und verkaufen.<br><br>Es gibt mehrere deaktivierte Regeln in der Liste, deren Aktivierung im Laufe des Spiels von Vorteil sein kann.
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoSalvageTooltip=Auto Salvage allows you to define a set of Rules that will cause your Mortals to automatically queue Gear up to be Salvaged.<br><br>Salvaging recovers some resources when the Salvaged Item is destroyed, so it's a better option than letting it decay.
 \\
 \\\\
-Oct.Belongings.Manager.autoSalvageTooltip=\\untranslated
+Oct.Belongings.Manager.autoSalvageTooltip=Automatisches Recyclen ermöglicht es dir, eine Reihe von Regeln zu definieren, durch die deine Sterblichen automatisch Ausrüstung zum Recyclen in eine Warteschlange aufnehmen.<br><br>Durch Recyclen werden einige Ressourcen zurückgewonnen, wenn der recyclete Gegenstand zerstört wird. Dies ist also besser, als ihn verfallen zu lassen.
 
 \\\\
 \\
@@ -7778,7 +7778,7 @@ Oct.Code.ArrangeWedding.Suitors=Verehrer
 \\	Oct.Code.Attraction.Loves=Loves
 \\
 \\\\
-Oct.Code.Attraction.Loves=Liebt:
+Oct.Code.Attraction.Loves=liebt
 
 \\\\
 \\
@@ -7925,7 +7925,7 @@ Oct.Code.Beliefs.Replace.Tooltip=Prinzipien neu bewerten
 \\	Oct.Code.Beliefs.Principle.RulerInterest=Ruler Interest
 \\
 \\\\
-Oct.Code.Beliefs.Principle.RulerInterest=Herrscherinteresse
+Oct.Code.Beliefs.Principle.RulerInterest=Herrscher-Interesse
 
 \\\\
 \\
@@ -8051,14 +8051,14 @@ Oct.Code.Belongings.IncludedIn=Enthalten in {belonging}
 \\	Oct.Code.Belongings.Returned={character} returned {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Returned=\\untranslated
+Oct.Code.Belongings.Returned={character} hat {belonging} zurückgegeben
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Claimed={character} claimed {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Claimed=\\untranslated
+Oct.Code.Belongings.Claimed={character} hat {belonging} beansprucht
 
 \\\\
 \\
@@ -8184,7 +8184,7 @@ Oct.Code.Belongings.Tabs.Jobs=Jobs
 \\	Oct.Code.Belongings.Autonomous.Title=Auto Claim
 \\
 \\\\
-Oct.Code.Belongings.Autonomous.Title=\\untranslated
+Oct.Code.Belongings.Autonomous.Title=Automatisches Beanspruchen
 
 \\\\
 \\
@@ -8198,21 +8198,21 @@ Oct.Code.Belongings.Header=Eigentum
 \\	Oct.Code.Belongings.AutoClaim.ClaimNow=Claim Now
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.ClaimNow=\\untranslated
+Oct.Code.Belongings.AutoClaim.ClaimNow=Jetzt beanspruchen
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Considering={character} is considering {slot} options...
 \\
 \\\\
-Oct.Code.Belongings.Considering=\\untranslated
+Oct.Code.Belongings.Considering={character} erwägt {slot} Optionen ...
 
 \\\\
 \\
 \\	Oct.Code.Belongings.AutoClaim.In=Auto Claims in {timeframe}...
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.In=\\untranslated
+Oct.Code.Belongings.AutoClaim.In=Automatisches Beanspruchen in {timeframe} ...
 
 \\\\
 \\
@@ -9388,35 +9388,35 @@ Oct.Code.Characters.Obedience.To={adjective} gegenüber {kingdom}
 \\	Oct.Code.Characters.Opinions.Third.Loves=Loves
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.Loves=Liebt:
+Oct.Code.Characters.Opinions.Third.Loves=liebt
 
 \\\\
 \\
 \\	Oct.Code.Characters.Opinions.Third.Likes=Likes
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.Likes=Mag:
+Oct.Code.Characters.Opinions.Third.Likes=mag
 
 \\\\
 \\
 \\	Oct.Code.Characters.Opinions.Third.Dislikes=Dislikes
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.Dislikes=Mag nicht:
+Oct.Code.Characters.Opinions.Third.Dislikes=mag nicht
 
 \\\\
 \\
 \\	Oct.Code.Characters.Opinions.Third.Hates=Hates
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.Hates=Hasst:
+Oct.Code.Characters.Opinions.Third.Hates=hasst
 
 \\\\
 \\
 \\	Oct.Code.Characters.Opinions.Third.None=Doesn't mind
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.None=Hat nichts dagegen
+Oct.Code.Characters.Opinions.Third.None=hat nichts dagegen
 
 \\\\
 \\
@@ -9549,35 +9549,35 @@ Oct.Code.Characters.Opinions.Description.Statements.Subject={verb} {subject.plur
 \\	Oct.Code.Characters.Opinions.Third.Verbs.Loves=loves
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.Verbs.Loves=liebt:
+Oct.Code.Characters.Opinions.Third.Verbs.Loves=liebt
 
 \\\\
 \\
 \\	Oct.Code.Characters.Opinions.Third.Verbs.Likes=likes
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.Verbs.Likes=mag:
+Oct.Code.Characters.Opinions.Third.Verbs.Likes=mag
 
 \\\\
 \\
 \\	Oct.Code.Characters.Opinions.Third.Verbs.Dislikes=dislikes
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.Verbs.Dislikes=mag nicht:
+Oct.Code.Characters.Opinions.Third.Verbs.Dislikes=mag nicht
 
 \\\\
 \\
 \\	Oct.Code.Characters.Opinions.Third.Verbs.Hates=hates
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.Verbs.Hates=hasst:
+Oct.Code.Characters.Opinions.Third.Verbs.Hates=hasst
 
 \\\\
 \\
 \\	Oct.Code.Characters.Opinions.Third.Verbs.NoOpinion=doesn't mind
 \\
 \\\\
-Oct.Code.Characters.Opinions.Third.Verbs.NoOpinion=hat nichts gegen:
+Oct.Code.Characters.Opinions.Third.Verbs.NoOpinion=hat nichts gegen
 
 \\\\
 \\
@@ -9738,7 +9738,7 @@ Oct.Code.Characters.Criminal.Raider=Räuber
 \\	Oct.Code.Characters.Relationship.Ward=Ward
 \\
 \\\\
-Oct.Code.Characters.Relationship.Ward=Pflegling
+Oct.Code.Characters.Relationship.Ward=Mündel
 
 \\\\
 \\
@@ -12195,7 +12195,7 @@ Oct.Code.Characters.Want.Toast={prestige} {type}
 \\	Oct.Code.Characters.Toasts.Want.Satisfied={character}'s {want} want satisfied!
 \\
 \\\\
-Oct.Code.Characters.Toasts.Want.Satisfied={want} von {character} soll erfüllt werden!
+Oct.Code.Characters.Toasts.Want.Satisfied={want} von {character} ist erfüllt worden!
 
 \\\\
 \\
@@ -13959,7 +13959,7 @@ Oct.Code.Commands.Gather=Sammeln
 \\	Oct.Code.Common.Add=Add
 \\
 \\\\
-Oct.Code.Common.Add=\\untranslated
+Oct.Code.Common.Add=Hinzufügen
 
 \\\\
 \\
@@ -14232,7 +14232,7 @@ Oct.Code.Common.Expected=Erwartet
 \\	Oct.Code.Common.Everything=Everything
 \\
 \\\\
-Oct.Code.Common.Everything=\\untranslated
+Oct.Code.Common.Everything=Alles
 
 \\\\
 \\
@@ -14731,14 +14731,14 @@ Oct.Code.Common.Ability={ability}-Fähigkeit
 \\	Oct.Code.Common.Rules.Type={type} Rules
 \\
 \\\\
-Oct.Code.Common.Rules.Type=\\untranslated
+Oct.Code.Common.Rules.Type={type}-Regeln
 
 \\\\
 \\
 \\	Oct.Code.Common.Rules=Rules
 \\
 \\\\
-Oct.Code.Common.Rules=\\untranslated
+Oct.Code.Common.Rules=Regeln
 
 \\\\
 \\
@@ -15629,7 +15629,7 @@ Oct.Code.FoodAndDrink.Header=Essen und Trinken
 \\	Oct.Code.FoodAndDrink.Override=Override
 \\
 \\\\
-Oct.Code.FoodAndDrink.Override=\\untranslated
+Oct.Code.FoodAndDrink.Override=Überschreiben
 
 \\\\
 \\
@@ -15713,7 +15713,7 @@ Oct.Code.Fruit.ValuePer=Wert/Einh.
 \\	Oct.Code.Fruit.NutritionPer=Nutrition Per
 \\
 \\\\
-Oct.Code.Fruit.NutritionPer=Nahrung/Einh.
+Oct.Code.Fruit.NutritionPer=Nahr./Einh.
 
 \\\\
 \\
@@ -16426,7 +16426,7 @@ Oct.Code.Information.Belonging.LostValue={owners} {belonging} verlor an Wert
 \\	Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(I,you,{to})} claimed {belonging}
 \\
 \\\\
-Oct.Code.Information.Belonging.Claimed.Advanced=\\untranslated
+Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(Ich,du,{to})} {belonging} beansprucht
 
 \\\\
 \\
@@ -18071,7 +18071,7 @@ Oct.Code.Information.Joined.SubjectJoined.First=Ich trat bei:
 \\	Oct.Code.Information.Joined.SubjectJoined.Second=you joined
 \\
 \\\\
-Oct.Code.Information.Joined.SubjectJoined.Second=du tratst bei
+Oct.Code.Information.Joined.SubjectJoined.Second=du tratst bei:
 
 \\\\
 \\
@@ -18191,7 +18191,7 @@ Oct.Code.Information.KingdomSize.Details.Second=dein Königreich ist {size}
 \\	Oct.Code.Information.KingdomSize.Details.Third={kingdom} are a {size} Kingdom
 \\
 \\\\
-Oct.Code.Information.KingdomSize.Details.Third={kingdom} ist ein {size} Königreich
+Oct.Code.Information.KingdomSize.Details.Third={kingdom} sind ein {size} Königreich
 
 \\\\
 \\
@@ -18214,7 +18214,7 @@ Oct.Code.Information.KingdomSizePreference.Compatibility=Bevorzugt {kingdomSize}
 \\	Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(I prefer,you prefer,{subject} prefers)} {kingdomSize}
 \\
 \\\\
-Oct.Code.Information.KingdomSizePreference.Details.Advanced=\\untranslated
+Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(Ich bevorzuge,du bevorzugst,{subject} bevorzugt)} {kingdomSize}
 
 \\\\
 \\
@@ -19911,7 +19911,7 @@ Oct.Code.Injury.Cause=Grund
 \\	Oct.Code.Injury.AssignedNurse=Nurse
 \\
 \\\\
-Oct.Code.Injury.AssignedNurse=Krankenschwester
+Oct.Code.Injury.AssignedNurse=Heiler
 
 \\\\
 \\
@@ -20177,21 +20177,21 @@ Oct.Code.Items.Verbs.Cooked=kochte
 \\	Oct.Code.Items.Common.Claim.Auto=Auto Claim
 \\
 \\\\
-Oct.Code.Items.Common.Claim.Auto=\\untranslated
+Oct.Code.Items.Common.Claim.Auto=Automatisches Beanspruchen
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Junk.Auto=Auto Junk
 \\
 \\\\
-Oct.Code.Items.Common.Junk.Auto=\\untranslated
+Oct.Code.Items.Common.Junk.Auto=Autoschrott
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Salvage.Auto=Auto Salvage
 \\
 \\\\
-Oct.Code.Items.Common.Salvage.Auto=\\untranslated
+Oct.Code.Items.Common.Salvage.Auto=Automatisches Recyclen
 
 \\\\
 \\
@@ -20205,14 +20205,14 @@ Oct.Code.Items.BaseEsteem=Grundanseh.
 \\	Oct.Code.Items.Claimable=Claimable
 \\
 \\\\
-Oct.Code.Items.Claimable=\\untranslated
+Oct.Code.Items.Claimable=Beanspruchbar
 
 \\\\
 \\
 \\	Oct.Code.Items.Claimable.Mode=Claimable Mode
 \\
 \\\\
-Oct.Code.Items.Claimable.Mode=\\untranslated
+Oct.Code.Items.Claimable.Mode=Beanspruchbar-Modus
 
 \\\\
 \\
@@ -20233,7 +20233,7 @@ Oct.Code.Items.Common.Equip=Ausrüsten
 \\	Oct.Code.Items.Common.EsteemPer=Esteem Per
 \\
 \\\\
-Oct.Code.Items.Common.EsteemPer=Ansehen/Einh.
+Oct.Code.Items.Common.EsteemPer=Anseh./Einh.
 
 \\\\
 \\
@@ -20282,7 +20282,7 @@ Oct.Code.Items.Common.JunkMode.Manual.Abbreviation=M
 \\	Oct.Code.Items.Common.NutritionPer=Nutrition Per
 \\
 \\\\
-Oct.Code.Items.Common.NutritionPer=Nahrung/Einh.
+Oct.Code.Items.Common.NutritionPer=Nahr./Einh.
 
 \\\\
 \\
@@ -20296,7 +20296,7 @@ Oct.Code.Items.Common.Rarity=Seltenheit
 \\	Oct.Code.Items.Common.SalvageMode=Salvage Mode
 \\
 \\\\
-Oct.Code.Items.Common.SalvageMode=\\untranslated
+Oct.Code.Items.Common.SalvageMode=Recyclen-Modus
 
 \\\\
 \\
@@ -20723,35 +20723,35 @@ Oct.Code.Kingdom.CannotRelocate.NoRuler=Kein Herrscher!
 \\	Oct.Code.Kingdom.Size.Short.Large=Large
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Large=Große
+Oct.Code.Kingdom.Size.Short.Large=groß
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.Medium=Medium
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Medium=Mittl.
+Oct.Code.Kingdom.Size.Short.Medium=mittl.
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.Small=Small
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Small=Kleine
+Oct.Code.Kingdom.Size.Short.Small=klein
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.Tiny=Tiny
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.Tiny=Winzige
+Oct.Code.Kingdom.Size.Short.Tiny=winzig
 
 \\\\
 \\
 \\	Oct.Code.Kingdom.Size.Short.VeryLarge=Very Large
 \\
 \\\\
-Oct.Code.Kingdom.Size.Short.VeryLarge=Sehr groß
+Oct.Code.Kingdom.Size.Short.VeryLarge=sehr groß
 
 \\\\
 \\
@@ -20795,7 +20795,7 @@ Oct.Code.Land=Land
 \\	Oct.Code.Language.Name=English
 \\
 \\\\
-Oct.Code.Language.Name=English
+Oct.Code.Language.Name=Deutsch
 
 \\\\
 \\
@@ -21054,7 +21054,7 @@ Oct.Code.MapSettings.Header=Karteneinstellungen
 \\	Oct.Code.MapSettings.Seed=Seed
 \\
 \\\\
-Oct.Code.MapSettings.Seed=Keim
+Oct.Code.MapSettings.Seed=Seed
 
 \\\\
 \\
@@ -22542,7 +22542,7 @@ Oct.Code.Relationship.Parent=Elternteil
 \\	Oct.Code.Relationship.Ward=Ward
 \\
 \\\\
-Oct.Code.Relationship.Ward=Pflegling
+Oct.Code.Relationship.Ward=Mündel
 
 \\\\
 \\
@@ -22892,21 +22892,21 @@ Oct.Code.Rooms.InBuilding=Im Gebäude
 \\	Oct.Code.Rule.Complex=Complex
 \\
 \\\\
-Oct.Code.Rule.Complex=\\untranslated
+Oct.Code.Rule.Complex=Komplex
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.From=From
 \\
 \\\\
-Oct.Code.Rule.Hours.From=Von:
+Oct.Code.Rule.Hours.From=Von
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.To=To
 \\
 \\\\
-Oct.Code.Rule.Hours.To=Bis:
+Oct.Code.Rule.Hours.To=Bis
 
 \\\\
 \\
@@ -22920,105 +22920,105 @@ Oct.Code.Rules.Timeframe=Von {fromHour} bis {toHour}
 \\	Oct.Code.Rules.Quantity=Qty {comparison} {count}
 \\
 \\\\
-Oct.Code.Rules.Quantity=\\untranslated
+Oct.Code.Rules.Quantity=Menge {comparison} {count}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Value=Value {comparison} {value}
 \\
 \\\\
-Oct.Code.Rules.Value=\\untranslated
+Oct.Code.Rules.Value=Wert {comparison} {value}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Durability=Durability {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Durability=\\untranslated
+Oct.Code.Rules.Durability=Haltbarkeit {comparison} {durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Quality=Quality {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Quality=\\untranslated
+Oct.Code.Rules.Quality=Qualität {comparison} {durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Rarity=Rarity {comparison} {rarity}
 \\
 \\\\
-Oct.Code.Rules.Rarity=\\untranslated
+Oct.Code.Rules.Rarity=Seltenheit {comparison} {rarity}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BuffPoints=Buff Points {comparison} {points}
 \\
 \\\\
-Oct.Code.Rules.BuffPoints=\\untranslated
+Oct.Code.Rules.BuffPoints=Buffpunkte {comparison} {points}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is=Is
 \\
 \\\\
-Oct.Code.Rules.Is=\\untranslated
+Oct.Code.Rules.Is=Existiert
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is.Type=Is {type}
 \\
 \\\\
-Oct.Code.Rules.Is.Type=\\untranslated
+Oct.Code.Rules.Is.Type=Ist {type}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare.Keep=Keep
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare.Keep=\\untranslated
+Oct.Code.Rules.BookSet.Spare.Keep=Behalten
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare=Is Spare Book Set (Keep {count})
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare=\\untranslated
+Oct.Code.Rules.BookSet.Spare=Ist zusätzliche Büchersammlung ({count} behalten)
 
 \\\\
 \\
 \\	Oct.Code.Rules.Ambition=Prestige {comparison} {percent}% of Ambition
 \\
 \\\\
-Oct.Code.Rules.Ambition=\\untranslated
+Oct.Code.Rules.Ambition=Prestige {comparison} {percent} % der Ambition
 
 \\\\
 \\
 \\	Oct.Code.Rules.Lodging=Prestige {comparison} {percent}% of Lodging
 \\
 \\\\
-Oct.Code.Rules.Lodging=\\untranslated
+Oct.Code.Rules.Lodging=Prestige {comparison} {percent} % der Unterkunft
 
 \\\\
 \\
 \\	Oct.Code.Rules.Prestige=Prestige {comparison} {prestige}
 \\
 \\\\
-Oct.Code.Rules.Prestige=\\untranslated
+Oct.Code.Rules.Prestige=Prestige {comparison} {prestige}
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant.Limit=Limit
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant.Limit=\\untranslated
+Oct.Code.Rules.SatisfiesWant.Limit=Limit
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant=Satisfies a Want ({limit})
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant=\\untranslated
+Oct.Code.Rules.SatisfiesWant=Erfüllt einen Wunsch ({limit})
 
 \\\\
 \\
@@ -24829,7 +24829,7 @@ Oct.Commands.Jobs.Nursing.tooltip=Pflege bestimmt, wie schnell und erfolgreich d
 \\
 \\\\
 Oct.Commands.Jobs.Nursing.nouns+=Arzt
-Oct.Commands.Jobs.Nursing.nouns+=Krankenschwester
+Oct.Commands.Jobs.Nursing.nouns+=Heiler
 Oct.Commands.Jobs.Nursing.nouns+=Flicker
 Oct.Commands.Jobs.Nursing.nouns+=Heiler
 Oct.Commands.Jobs.Nursing.nouns+=Pfleger
@@ -24867,7 +24867,7 @@ Oct.Commands.Jobs.Mining.nouns+=Felsbrecher
 \\	Oct.Commands.Jobs.Building.name=Building
 \\
 \\\\
-Oct.Commands.Jobs.Building.name=Gebäude
+Oct.Commands.Jobs.Building.name=Bauen
 
 \\\\
 \\
@@ -28956,7 +28956,7 @@ Oct.Grammar.Lines.Alignment.Generic.results+={grammar.alignmentStatement}
 \\
 \\\\
 Oct.Grammar.Lines.Alignment.Evil.results+=^<Oct.Grammar.Lines.Alignment.Details grammar.alignmentStatement="es so etwas wie Unschuld nicht gibt">.
-Oct.Grammar.Lines.Alignment.Evil.results+=^<Oct.Grammar.Lines.Alignment.Details grammar.alignmentStatement="Unschuld überbewertet ist">.
+Oct.Grammar.Lines.Alignment.Evil.results+="<Oct.Grammar.Lines.Alignment.Details grammar.alignmentStatement="^Unschuld überbewertet ist">.
 Oct.Grammar.Lines.Alignment.Evil.results+=^<Oct.Grammar.Lines.Alignment.Details grammar.alignmentStatement="es keine Opfer gibt">.
 Oct.Grammar.Lines.Alignment.Evil.results+=^<Oct.Grammar.Lines.Alignment.Details grammar.alignmentStatement="Opferrollen überbewertet sind">.
 Oct.Grammar.Lines.Alignment.Evil.results+=^<Oct.Grammar.Lines.Alignment.Details grammar.alignmentStatement="die Leute verdienen, was sie bekommen">.
@@ -32453,7 +32453,7 @@ Oct.Items.Buffable.CookingBuff.verbs+=Sautieren
 \\
 \\\\
 Oct.Items.Buffable.NursingBuff.nouns+=Arzt
-Oct.Items.Buffable.NursingBuff.nouns+=Krankenschwester
+Oct.Items.Buffable.NursingBuff.nouns+=Heiler
 Oct.Items.Buffable.NursingBuff.nouns+=Flicker
 Oct.Items.Buffable.NursingBuff.nouns+=Heiler
 Oct.Items.Buffable.NursingBuff.nouns+=Pfleger
@@ -32872,7 +32872,7 @@ Oct.Items.Categories.Seeds.name=Samen
 \\	Oct.Items.Categories.Food.Vegetarian.name=Vegetarian
 \\
 \\\\
-Oct.Items.Categories.Food.Vegetarian.name=\\untranslated
+Oct.Items.Categories.Food.Vegetarian.name=Vegetarier(in)
 
 \\\\
 \\
@@ -33931,14 +33931,14 @@ Oct.Items.PropCrate.pluralName=Objektkisten
 \\	Oct.Items.PropCrate.nameFormat={type} Crate
 \\
 \\\\
-Oct.Items.PropCrate.nameFormat=\\untranslated
+Oct.Items.PropCrate.nameFormat={type}-Kiste
 
 \\\\
 \\
 \\	Oct.Items.PropCrate.BookSet.nameFormat={type}
 \\
 \\\\
-Oct.Items.PropCrate.BookSet.nameFormat=\\untranslated
+Oct.Items.PropCrate.BookSet.nameFormat={type}
 
 \\\\
 \\
@@ -41855,7 +41855,7 @@ Oct.Pawns.Attraction.Related.Child.adjectiveDisplay=Verwandt: {pawn} ist mein El
 \\	Oct.Pawns.Attraction.Related.Guardian.adjectiveDisplay=Related: {pawn} is my Ward
 \\
 \\\\
-Oct.Pawns.Attraction.Related.Guardian.adjectiveDisplay=Verwandt: {pawn} ist mein Pflegling.
+Oct.Pawns.Attraction.Related.Guardian.adjectiveDisplay=Verwandt: {pawn} ist mein Mündel.
 
 \\\\
 \\
@@ -62068,280 +62068,280 @@ Oct.Rooms.Work.name=Werkstatt
 \\	Oct.Rules.All.name=All of
 \\
 \\\\
-Oct.Rules.All.name=\\untranslated
+Oct.Rules.All.name=Alles
 
 \\\\
 \\
 \\	Oct.Rules.All.tooltip=True when all child rules are True (False when Empty).
 \\
 \\\\
-Oct.Rules.All.tooltip=\\untranslated
+Oct.Rules.All.tooltip=Wahr, wenn alle Unterregeln wahr sind (falsch, wenn leer).
 
 \\\\
 \\
 \\	Oct.Rules.Any.name=Any of
 \\
 \\\\
-Oct.Rules.Any.name=\\untranslated
+Oct.Rules.Any.name=Irgendeins
 
 \\\\
 \\
 \\	Oct.Rules.Any.tooltip=True when any child rule is True (False when empty).
 \\
 \\\\
-Oct.Rules.Any.tooltip=\\untranslated
+Oct.Rules.Any.tooltip=Wahr, wenn irgendeine Unterregel wahr ist (falsch, wenn leer).
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.name=Buff Pts
 \\
 \\\\
-Oct.Rules.BuffPoints.name=\\untranslated
+Oct.Rules.BuffPoints.name=Buffpunkte
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.tooltip=True when the sum of +'s on an Item meets the criteria.
 \\
 \\\\
-Oct.Rules.BuffPoints.tooltip=\\untranslated
+Oct.Rules.BuffPoints.tooltip=Wahr, wenn die Summe der Pluszeichen eines Gegenstands den Kriterien entspricht.
 
 \\\\
 \\
 \\	Oct.Rules.Durability.name=Durability
 \\
 \\\\
-Oct.Rules.Durability.name=\\untranslated
+Oct.Rules.Durability.name=Haltbarkeit
 
 \\\\
 \\
 \\	Oct.Rules.Durability.tooltip=True when Item Durability meets the criteria.
 \\
 \\\\
-Oct.Rules.Durability.tooltip=\\untranslated
+Oct.Rules.Durability.tooltip=Wahr, wenn die Haltbarkeit des Gegenstands den Kriterien entspricht.
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.name=During a Feast
 \\
 \\\\
-Oct.Rules.DuringFeast.name=\\untranslated
+Oct.Rules.DuringFeast.name=Während eines Festmahls
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.tooltip=True during a Feast.
 \\
 \\\\
-Oct.Rules.DuringFeast.tooltip=\\untranslated
+Oct.Rules.DuringFeast.tooltip=Während eines Festmahls wahr.
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.name=During a Wedding
 \\
 \\\\
-Oct.Rules.DuringWedding.name=\\untranslated
+Oct.Rules.DuringWedding.name=Während einer Hochzeit
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.tooltip=True during a Wedding.
 \\
 \\\\
-Oct.Rules.DuringWedding.tooltip=\\untranslated
+Oct.Rules.DuringWedding.tooltip=Während einer Hochzeit wahr.
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.name=Is Claimable
 \\
 \\\\
-Oct.Rules.IsClaimable.name=\\untranslated
+Oct.Rules.IsClaimable.name=Ist beanspruchbar
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.tooltip=True when the Item is Claimable.
 \\
 \\\\
-Oct.Rules.IsClaimable.tooltip=\\untranslated
+Oct.Rules.IsClaimable.tooltip=Wahr, wenn der Gegenstand beanspruchbar ist.
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.name=Is Junk
 \\
 \\\\
-Oct.Rules.IsJunk.name=\\untranslated
+Oct.Rules.IsJunk.name=Ist Schrott
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.tooltip=True when the Item is Junk.
 \\
 \\\\
-Oct.Rules.IsJunk.tooltip=\\untranslated
+Oct.Rules.IsJunk.tooltip=Wahr, wenn der Gegenstand Schrott ist.
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.name=Is Spare Book Set
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.name=\\untranslated
+Oct.Rules.IsSpareBookSet.name=Ist zusätzliche Büchersammlung
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.tooltip=True when there are extra Sets of this type (Placed or Crated, not Junk).
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.tooltip=\\untranslated
+Oct.Rules.IsSpareBookSet.tooltip=Wahr, wenn es zusätzliche Sammlungen dieses Typs gibt (platziert oder in Kisten, nicht Schrott).
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.name=Is
 \\
 \\\\
-Oct.Rules.ItemIs.name=\\untranslated
+Oct.Rules.ItemIs.name=Existiert
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.tooltip=True when the Item Type is in the list.
 \\
 \\\\
-Oct.Rules.ItemIs.tooltip=\\untranslated
+Oct.Rules.ItemIs.tooltip=Wahr, wenn der Gegenstandstyp auf der Liste steht.
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.name=None of
 \\
 \\\\
-Oct.Rules.NoneRule.name=\\untranslated
+Oct.Rules.NoneRule.name=Keins
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.tooltip=True when no child rule is True (True when empty).
 \\
 \\\\
-Oct.Rules.NoneRule.tooltip=\\untranslated
+Oct.Rules.NoneRule.tooltip=Wahr, wenn keine Unterregeln wahr sind (falsch, wenn leer).
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.name=Prestige
 \\
 \\\\
-Oct.Rules.Prestige.name=\\untranslated
+Oct.Rules.Prestige.name=Prestige
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.tooltip=True when Item's Prestige meets the criteria
 \\
 \\\\
-Oct.Rules.Prestige.tooltip=\\untranslated
+Oct.Rules.Prestige.tooltip=Wahr, wenn das Prestige des Gegenstands den Kriterien entspricht.
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.name=Prestige as Percent of Ambition
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.name=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.name=Prestige als Prozentsatz der Ambition
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.tooltip=True when the Item's Prestige meets the chosen condition compared to the Mortal's Ambition.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.tooltip=Wahr, wenn das Prestige des Gegenstands die gewählte Bedingung im Vergleich zur Ambition des Sterblichen erfüllt.
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.name=Prestige as Percent of Lodging
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.name=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.name=Prestige als Prozentsatz der Unterkunft
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.tooltip=True when the Item's Prestige meets the chosen condition when compared to the Prestige of a Mortal's Lodging.<br><br>A Prestige as Percent of Lodging of "<= 50%" means that an Item must be less in Prestige than half that of their assigned Lodging.<br><br>Given that there are 8 equipment slots, that ensures that their Lodging will make up at least 20% of their Prestige, satisfying their Lodging Need.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.tooltip=Wahr, wenn das Prestige des Gegenstands die gewählte Bedingung im Vergleich zum Prestige der Unterkunft eines Sterblichen erfüllt.<br><br>Ein Prestige als Prozentsatz der Unterkunft von „<= 50%“ bedeutet, dass das Prestige eines Gegenstands weniger als die Hälfte des Prestiges der ihm zugewiesenen Unterkunft betragen muss.<br><br>Angesichts der 8 Ausrüstungsslots wird dadurch sichergestellt, dass die Unterkunft mindestens 20 % ihres Prestiges ausmacht und den Bedarf an Unterkunft deckt.
 
 \\\\
 \\
 \\	Oct.Rules.Quality.name=Quality
 \\
 \\\\
-Oct.Rules.Quality.name=\\untranslated
+Oct.Rules.Quality.name=Qualität
 
 \\\\
 \\
 \\	Oct.Rules.Quality.tooltip=True when Item Quality meets the criteria.
 \\
 \\\\
-Oct.Rules.Quality.tooltip=\\untranslated
+Oct.Rules.Quality.tooltip=Wahr, wenn die Qualität des Gegenstands den Kriterien entspricht.
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.name=Qty
 \\
 \\\\
-Oct.Rules.Quantity.name=\\untranslated
+Oct.Rules.Quantity.name=Menge
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.tooltip=True when Qty of the Item meets the criteria.
 \\
 \\\\
-Oct.Rules.Quantity.tooltip=\\untranslated
+Oct.Rules.Quantity.tooltip=Wahr, wenn die Menge des Gegenstands den Kriterien entspricht.
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.name=Rarity
 \\
 \\\\
-Oct.Rules.Rarity.name=\\untranslated
+Oct.Rules.Rarity.name=Seltenheit
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.tooltip=True when Item Rarity meets the criteria.
 \\
 \\\\
-Oct.Rules.Rarity.tooltip=\\untranslated
+Oct.Rules.Rarity.tooltip=Wahr, wenn die Seltenheit des Gegenstands den Kriterien entspricht.
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.name=Satisfies a Want
 \\
 \\\\
-Oct.Rules.SatisfiesWant.name=\\untranslated
+Oct.Rules.SatisfiesWant.name=Erfüllt einen Wunsch
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.tooltip=True when the Item's Prestige satisfies a Want but doesn't exceed it by more than limit.
 \\
 \\\\
-Oct.Rules.SatisfiesWant.tooltip=\\untranslated
+Oct.Rules.SatisfiesWant.tooltip=Wahr, wenn das Prestige des Gegenstands einen Wunsch erfüllt, diesen aber nicht um mehr als das Limit übersteigt.
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.name=Timeframe
 \\
 \\\\
-Oct.Rules.Timeframe.name=\\untranslated
+Oct.Rules.Timeframe.name=Zeitspanne
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.tooltip=True between the hours of From and To.
 \\
 \\\\
-Oct.Rules.Timeframe.tooltip=\\untranslated
+Oct.Rules.Timeframe.tooltip=In der Zeitspanne zwischen von und bis wahr.
 
 \\\\
 \\
 \\	Oct.Rules.Value.name=Value
 \\
 \\\\
-Oct.Rules.Value.name=\\untranslated
+Oct.Rules.Value.name=Wert
 
 \\\\
 \\
 \\	Oct.Rules.Value.tooltip=True when Item Value meets the criteria.
 \\
 \\\\
-Oct.Rules.Value.tooltip=\\untranslated
+Oct.Rules.Value.tooltip=Wahr, wenn der Wert des Gegenstands den Kriterien entspricht.
 
 \\\\
 \\
@@ -63617,7 +63617,7 @@ Oct.Settings.Global.Controls.Camera.Move.Right.name=Nach rechts
 \\	Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=Edge Scroll
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=Rand-Scrollen
 
 \\\\
 \\
@@ -63638,14 +63638,14 @@ Oct.Settings.Global.Controls.Camera.Rotate.defaultValue=HALTEN [Mittl. Maustaste
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=Invert Pitch
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=Neigung umkehren
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=Invert Pitch (Controlled)
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=Neigung umkehren (gesteuert)
 
 \\\\
 \\
@@ -65830,7 +65830,7 @@ Oct.Time.Manager.seasonNames.4=Winter
 \\	Oct.Time.Manager.timeTooltip=Time passes differently in Noberia.<br><br>A <b><u>Yir</u></b> is 4 days long. The average Human lives around 60 Yirs.<br><br>Each <b><u>Sizon</u></b> (Winter, Spring, Summer, Fall) averages 3 Yirs, for a total of 12 days per Sizon.<br><br>You can change the number of Days per Yir in the Options if you want time to pass more quickly or slowly.
 \\
 \\\\
-Oct.Time.Manager.timeTooltip=In Noberia vergeht die Zeit anders.<br><br>    Ein <b><u>Jaar</u></b> ist 4 Tage lang. Der   Durchschnittsmensch<br>   lebt für etwa 60 Jaare<br><b>    JedeSehson<b></u><b> (Winter, Frühling, <br>   Sommer, Herbst)<br> umfasst durchschnittlich <br>  3 Jaare, also insgesamt 12 Tage pro Sehson.<br><br>    Du kannst die Anzahl der Tage pro Jaar in den <br>   Optionen ändern, wenn du möchtest, dass die Zeit<br>   schneller oder langsamer vergeht.
+Oct.Time.Manager.timeTooltip=In Noberia vergeht die Zeit anders.<br><br>Ein <b><u>Jaar</u></b> ist 4 Tage lang. Der Durchschnittsmensch lebt für etwa 60 Jaare.<br><br>Jede <b><u>Sehson</u></b> (Winter, Frühling, Sommer, Herbst) umfasst durchschnittlich 3 Jaare, also insgesamt 12 Tage proSehson.<br><br>Du kannst die Anzahl der Tage pro Jaar in den Optionen ändern, wenn du möchtest, dass die Zeit schneller oder langsamer vergeht.
 
 \\\\
 \\
