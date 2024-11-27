@@ -6224,7 +6224,7 @@ Oct.Characters.Humanoids.NuOrc.Brows04.name=Männlich 4
 \\	Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Male None
 \\
 \\\\
-Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=\\untranslated
+Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Nichts (Männlich)
 
 \\\\
 \\
@@ -6385,7 +6385,7 @@ Oct.Characters.Humanoids.NuOrc.Mouth-Fem03.name=Weiblich 3
 \\	Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Female None
 \\
 \\\\
-Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=\\untranslated
+Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Weiblich nichts (Weiblich)
 
 \\\\
 \\
@@ -7526,21 +7526,21 @@ Oct.Code.Adventure.Abandon.Header=Verlassen?
 \\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
 \\
 \\\\
-Oct.Code.Adventure.Abandon.Details=\\untranslated
+Oct.Code.Adventure.Abandon.Details=Deine Gruppe verlassen?
 
 \\\\
 \\
 \\	Oct.Code.Adventure.Retreat.Header=Retreat?
 \\
 \\\\
-Oct.Code.Adventure.Retreat.Header=\\untranslated
+Oct.Code.Adventure.Retreat.Header=Zurückziehen?
 
 \\\\
 \\
 \\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
 \\
 \\\\
-Oct.Code.Adventure.Reatreat.Details=\\untranslated
+Oct.Code.Adventure.Reatreat.Details=Die Hilflosen aufgeben und nach Hause gehen?
 
 \\\\
 \\
@@ -23977,7 +23977,7 @@ Oct.Code.Tools.Belongings=Eigentum
 \\	Oct.Code.Tools.Schedule=Schedule
 \\
 \\\\
-Oct.Code.Tools.Schedule=\\untranslated
+Oct.Code.Tools.Schedule=Zeitplan
 
 \\\\
 \\
@@ -24005,7 +24005,7 @@ Oct.Code.Tools.World=Welt
 \\	Oct.Code.Tools.Petitions=Petitions
 \\
 \\\\
-Oct.Code.Tools.Petitions=\\untranslated
+Oct.Code.Tools.Petitions=Gesuche
 
 \\\\
 \\
@@ -24054,7 +24054,7 @@ Oct.Code.Tools.Bulk.Multiple.Controls=[Linke Maustaste] HALTEN + Ziehen: Mehrere
 \\	Oct.Code.Tools.Learning=Learning
 \\
 \\\\
-Oct.Code.Tools.Learning=\\untranslated
+Oct.Code.Tools.Learning=Lernen
 
 \\\\
 \\
@@ -24496,6 +24496,7 @@ Oct.Code.Visibility.Props.CombatBlueprints=Baupläne (Kampf)
 \\
 \\\\
 Oct.Code.Visibility.Temperature=Temperatur
+
 \\\\
 \\
 \\	Oct.Code.Visibility.UI=UI
@@ -33067,7 +33068,7 @@ Oct.Items.Categories.Food.Drinks.Moonshine.name=Mondschein
 \\	Oct.Items.Categories.Gear.Outer.Cloaks.name=Cloaks
 \\
 \\\\
-Oct.Items.Categories.Gear.Outer.Cloaks.name=\\untranslated
+Oct.Items.Categories.Gear.Outer.Cloaks.name=Mäntel\\autotranslated
 
 \\\\
 \\
@@ -33459,28 +33460,28 @@ Oct.Items.Categories.Props.Other.name=Sonstiges
 \\	Oct.Items.Clothing.Cloak.Martial.name=Martial Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Martial.name=\\untranslated
+Oct.Items.Clothing.Cloak.Martial.name=Kampfumhang\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Martial.pluralName=Martial Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Martial.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Martial.pluralName=Kampfumhänge\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Royal.name=Royal Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Royal.name=\\untranslated
+Oct.Items.Clothing.Cloak.Royal.name=Königlicher Umhang\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Royal.pluralName=Royal Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Royal.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Royal.pluralName=Königliche Umhänge\\autotranslated
 
 \\\\
 \\
@@ -33529,28 +33530,28 @@ Oct.Items.Clothing.Hood.Cloth.name=Stoffkapuze
 \\	Oct.Items.Clothing.Cloak.Poor.name=Poor Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Poor.name=\\untranslated
+Oct.Items.Clothing.Cloak.Poor.name=Armer Umhang\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Poor.pluralName=Poor Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Poor.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Poor.pluralName=Arme Umhänge\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Modest.name=Modest Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Modest.name=\\untranslated
+Oct.Items.Clothing.Cloak.Modest.name=Bescheidener Umhang\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Modest.pluralName=Modest Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Modest.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Modest.pluralName=Bescheidene Umhänge\\autotranslated
 
 \\\\
 \\
@@ -34763,7 +34764,7 @@ Oct.Items.Stackable.Skins.Leather.name=Leder
 \\	Oct.Items.Stackable.Gold.name=Gold
 \\
 \\\\
-Oct.Items.Stackable.Gold.name=\\untranslated
+Oct.Items.Stackable.Gold.name=Gold
 
 \\\\
 \\
@@ -60947,28 +60948,28 @@ Oct.Research.Clothing.Costumes.Veil.name=Schleier
 \\	Oct.Research.Clothing.Cloak.Poor.name=Poor Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Poor.name=\\untranslated
+Oct.Research.Clothing.Cloak.Poor.name=Arme Umhänge\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Modest.name=Modest Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Modest.name=\\untranslated
+Oct.Research.Clothing.Cloak.Modest.name=Bescheidene Umhänge\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Martial.name=Martial Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Martial.name=\\untranslated
+Oct.Research.Clothing.Cloak.Martial.name=Kampfumhänge\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Royal.name=Royal Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Royal.name=\\untranslated
+Oct.Research.Clothing.Cloak.Royal.name=Königliche Umhänge\\autotranslated
 
 \\\\
 \\
