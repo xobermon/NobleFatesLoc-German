@@ -6221,6 +6221,13 @@ Oct.Characters.Humanoids.NuOrc.Brows04.name=Männlich 4
 
 \\\\
 \\
+\\	Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Male None
+\\
+\\\\
+Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Characters.Humanoids.NuOrc.Eye01.name=Male 1
 \\
 \\\\
@@ -6372,6 +6379,13 @@ Oct.Characters.Humanoids.NuOrc.Mouth-Fem02.name=Weiblich 2
 \\
 \\\\
 Oct.Characters.Humanoids.NuOrc.Mouth-Fem03.name=Weiblich 3
+
+\\\\
+\\
+\\	Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Female None
+\\
+\\\\
+Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=\\untranslated
 
 \\\\
 \\
@@ -7502,6 +7516,34 @@ Oct.Code.Abilities.ChooseTarget=Ziel für {ability} wählen
 
 \\\\
 \\
+\\	Oct.Code.Adventure.Abandon.Header=Abandon?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Header=Verlassen?
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Details=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Retreat.Header=Retreat?
+\\
+\\\\
+Oct.Code.Adventure.Retreat.Header=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
+\\
+\\\\
+Oct.Code.Adventure.Reatreat.Details=\\untranslated
+
+\\\\
+\\
 \\	Oct.Code.Adventure.Captions.Request=Request
 \\
 \\\\
@@ -7569,34 +7611,6 @@ Oct.Code.Adventure.Captions.Failed=Gescheitert
 \\
 \\\\
 Oct.Code.Adventure.Captions.Rewards=Belohnungen!
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Abandon.Header=Abandon?
-\\
-\\\\
-Oct.Code.Adventure.Abandon.Header=Verlassen?
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
-\\
-\\\\
-Oct.Code.Adventure.Abandon.Details=Deine Gruppe verlassen?
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Retreat.Header=Retreat?
-\\
-\\\\
-Oct.Code.Adventure.Retreat.Header=Zurückziehen?
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
-\\
-\\\\
-Oct.Code.Adventure.Reatreat.Details=Die Hilflosen aufgeben und nach Hause gehen?
 
 \\\\
 \\
@@ -8531,20 +8545,6 @@ Oct.Code.Character.Age.Adult.Old=Erwachsen (alt)
 
 \\\\
 \\
-\\	Oct.Code.Characters.SelectAll=Select All
-\\
-\\\\
-Oct.Code.Characters.SelectAll=Alle auswählen
-
-\\\\
-\\
-\\	Oct.Code.Characters.Leave=Leave
-\\
-\\\\
-Oct.Code.Characters.Leave=Verlassen
-
-\\\\
-\\
 \\	Oct.Code.Characters.HealRate.Treated=Treated
 \\
 \\\\
@@ -9294,6 +9294,20 @@ Oct.Code.Characters.StatModifiers.Inspired=Inspiriert
 
 \\\\
 \\
+\\	Oct.Code.Characters.SelectAll=Select All
+\\
+\\\\
+Oct.Code.Characters.SelectAll=Alle auswählen
+
+\\\\
+\\
+\\	Oct.Code.Characters.Leave=Leave
+\\
+\\\\
+Oct.Code.Characters.Leave=Verlassen
+
+\\\\
+\\
 \\	Oct.Code.Characters.Mission.Abandon=Abandon
 \\
 \\\\
@@ -9340,6 +9354,13 @@ Oct.Code.Characters.Properties.Growth={items} Wachstum
 \\
 \\\\
 Oct.Code.Characters.Commands.Collect={items} sammeln
+
+\\\\
+\\
+\\	Oct.Code.Characters.Status.GettingHelp=Getting Help
+\\
+\\\\
+Oct.Code.Characters.Status.GettingHelp=Holt Hilfe
 
 \\\\
 \\
@@ -12077,13 +12098,6 @@ Oct.Code.Characters.FoodBudget=Nahrungsbudget
 \\
 \\\\
 Oct.Code.Characters.Trade=Handeln
-
-\\\\
-\\
-\\	Oct.Code.Characters.Status.GettingHelp=Getting Help
-\\
-\\\\
-Oct.Code.Characters.Status.GettingHelp=Holt Hilfe
 
 \\\\
 \\
@@ -15528,13 +15542,6 @@ Oct.Code.FixedValueCharacterWant.Text={character} will: {type}
 
 \\\\
 \\
-\\	Oct.Code.Foliage.Canopy=Canopy
-\\
-\\\\
-Oct.Code.Foliage.Canopy=Vordach
-
-\\\\
-\\
 \\	Oct.Code.Foliage.Age=Age
 \\
 \\\\
@@ -15560,6 +15567,13 @@ Oct.Code.Foliage.Water=Wasser
 \\
 \\\\
 Oct.Code.Foliage.Burned=Verbrannt
+
+\\\\
+\\
+\\	Oct.Code.Foliage.Canopy=Canopy
+\\
+\\\\
+Oct.Code.Foliage.Canopy=Vordach
 
 \\\\
 \\
@@ -23953,10 +23967,31 @@ Oct.Code.Tools.Stockpiles=Vorräte
 
 \\\\
 \\
-\\	Oct.Code.Tools.Beliefs=Beliefs
+\\	Oct.Code.Tools.Belongings=Belongings
 \\
 \\\\
-Oct.Code.Tools.Beliefs=Überzeug.
+Oct.Code.Tools.Belongings=Eigentum
+
+\\\\
+\\
+\\	Oct.Code.Tools.Schedule=Schedule
+\\
+\\\\
+Oct.Code.Tools.Schedule=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Jobs=Jobs
+\\
+\\\\
+Oct.Code.Tools.Jobs=Jobs
+
+\\\\
+\\
+\\	Oct.Code.Tools.Food=Food
+\\
+\\\\
+Oct.Code.Tools.Food=Nahrung
 
 \\\\
 \\
@@ -23967,10 +24002,17 @@ Oct.Code.Tools.World=Welt
 
 \\\\
 \\
-\\	Oct.Code.Tools.Food=Food
+\\	Oct.Code.Tools.Petitions=Petitions
 \\
 \\\\
-Oct.Code.Tools.Food=Nahrung
+Oct.Code.Tools.Petitions=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Tools.Beliefs=Beliefs
+\\
+\\\\
+Oct.Code.Tools.Beliefs=Überzeug.
 
 \\\\
 \\
@@ -23985,41 +24027,6 @@ Oct.Code.Tools.Stockpiles.Add=Hinzufügen
 \\
 \\\\
 Oct.Code.Tools.Stockpiles.Remove=Entfernen
-
-\\\\
-\\
-\\	Oct.Code.Tools.Belongings=Belongings
-\\
-\\\\
-Oct.Code.Tools.Belongings=Eigentum
-
-\\\\
-\\
-\\	Oct.Code.Tools.Jobs=Jobs
-\\
-\\\\
-Oct.Code.Tools.Jobs=Jobs
-
-\\\\
-\\
-\\	Oct.Code.Tools.Learning=Learning
-\\
-\\\\
-Oct.Code.Tools.Learning=Lernen
-
-\\\\
-\\
-\\	Oct.Code.Tools.Schedule=Schedule
-\\
-\\\\
-Oct.Code.Tools.Schedule=Zeitplan
-
-\\\\
-\\
-\\	Oct.Code.Tools.Petitions=Petitions
-\\
-\\\\
-Oct.Code.Tools.Petitions=Gesuche
 
 \\\\
 \\
@@ -24041,6 +24048,13 @@ Oct.Code.Tools.Zone.Remove=Entfernen
 \\
 \\\\
 Oct.Code.Tools.Bulk.Multiple.Controls=[Linke Maustaste] HALTEN + Ziehen: Mehrere
+
+\\\\
+\\
+\\	Oct.Code.Tools.Learning=Learning
+\\
+\\\\
+Oct.Code.Tools.Learning=\\untranslated
 
 \\\\
 \\
@@ -24387,73 +24401,10 @@ Oct.Code.Visibility.Stockpiles=Vorräte
 
 \\\\
 \\
-\\	Oct.Code.Visibility.UI=UI
+\\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
 \\
 \\\\
-Oct.Code.Visibility.UI=UI
-
-\\\\
-\\
-\\	Oct.Code.Visibility.InWorldUI=In World UI
-\\
-\\\\
-Oct.Code.Visibility.InWorldUI=Spielwelt-UI
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Paths=Paths
-\\
-\\\\
-Oct.Code.Visibility.Paths=Pfade
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
-\\
-\\\\
-Oct.Code.Visibility.Items.LockedRecipes=Gesperrte Formeln
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Items.Stats=Item Stats
-\\
-\\\\
-Oct.Code.Visibility.Items.Stats=Gegenstandswerte
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.Roofs=Roofs
-\\
-\\\\
-Oct.Code.Visibility.Props.Roofs=Dächer
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.RulerRoofs=Roofs (Ruler Mode)
-\\
-\\\\
-Oct.Code.Visibility.Props.RulerRoofs=Dächer (Herrschermodus)
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.Blueprints=Blueprints
-\\
-\\\\
-Oct.Code.Visibility.Props.Blueprints=Baupläne
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Props.CombatBlueprints=Blueprints (Combat)
-\\
-\\\\
-Oct.Code.Visibility.Props.CombatBlueprints=Baupläne (Kampf)
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Temperature=Temperature
-\\
-\\\\
-Oct.Code.Visibility.Temperature=Temperatur
+Oct.Code.Visibility.Characters.AbilityTriggers=Fähigkeitsauslöser
 
 \\\\
 \\
@@ -24492,10 +24443,72 @@ Oct.Code.Visibility.Characters.Caps=Limits
 
 \\\\
 \\
-\\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
+\\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
 \\
 \\\\
-Oct.Code.Visibility.Characters.AbilityTriggers=Fähigkeitsauslöser
+Oct.Code.Visibility.Items.LockedRecipes=Gesperrte Formeln
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Items.Stats=Item Stats
+\\
+\\\\
+Oct.Code.Visibility.Items.Stats=Gegenstandswerte
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Paths=Paths
+\\
+\\\\
+Oct.Code.Visibility.Paths=Pfade
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.Roofs=Roofs
+\\
+\\\\
+Oct.Code.Visibility.Props.Roofs=Dächer
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.RulerRoofs=Roofs (Ruler Mode)
+\\
+\\\\
+Oct.Code.Visibility.Props.RulerRoofs=Dächer (Herrschermodus)
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.Blueprints=Blueprints
+\\
+\\\\
+Oct.Code.Visibility.Props.Blueprints=Baupläne
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Props.CombatBlueprints=Blueprints (Combat)
+\\
+\\\\
+Oct.Code.Visibility.Props.CombatBlueprints=Baupläne (Kampf)
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Temperature=Temperature
+\\
+\\\\
+Oct.Code.Visibility.Temperature=Temperatur
+\\\\
+\\
+\\	Oct.Code.Visibility.UI=UI
+\\
+\\\\
+Oct.Code.Visibility.UI=UI
+
+\\\\
+\\
+\\	Oct.Code.Visibility.InWorldUI=In World UI
+\\
+\\\\
+Oct.Code.Visibility.InWorldUI=Spielwelt-UI
 
 \\\\
 \\
@@ -33051,6 +33064,27 @@ Oct.Items.Categories.Food.Drinks.Moonshine.name=Mondschein
 
 \\\\
 \\
+\\	Oct.Items.Categories.Gear.Outer.Cloaks.name=Cloaks
+\\
+\\\\
+Oct.Items.Categories.Gear.Outer.Cloaks.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Categories.Gear.Outer.name=Outer
+\\
+\\\\
+Oct.Items.Categories.Gear.Outer.name=Äußere
+
+\\\\
+\\
+\\	Oct.Items.Categories.Resources.Leather.name=Leather
+\\
+\\\\
+Oct.Items.Categories.Resources.Leather.name=Leder
+
+\\\\
+\\
 \\	Oct.Items.Categories.Food.MealBeans.name=Meal Beans
 \\
 \\\\
@@ -33132,20 +33166,6 @@ Oct.Items.Categories.Gear.Hands.name=Hände
 \\
 \\\\
 Oct.Items.Categories.Gear.Feet.name=Füße
-
-\\\\
-\\
-\\	Oct.Items.Categories.Gear.Outer.name=Outer
-\\
-\\\\
-Oct.Items.Categories.Gear.Outer.name=Äußere
-
-\\\\
-\\
-\\	Oct.Items.Categories.Resources.Leather.name=Leather
-\\
-\\\\
-Oct.Items.Categories.Resources.Leather.name=Leder
 
 \\\\
 \\
@@ -33436,6 +33456,34 @@ Oct.Items.Categories.Props.Other.name=Sonstiges
 
 \\\\
 \\
+\\	Oct.Items.Clothing.Cloak.Martial.name=Martial Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Martial.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Martial.pluralName=Martial Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Martial.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Royal.name=Royal Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Royal.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Royal.pluralName=Royal Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Royal.pluralName=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Clothing.Shoes.Cloth.name=Cloth Shoes
 \\
 \\\\
@@ -33475,6 +33523,34 @@ Oct.Items.Clothing.Leggings.Cloth.name=Stoffleggings
 \\
 \\\\
 Oct.Items.Clothing.Hood.Cloth.name=Stoffkapuze
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Poor.name=Poor Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Poor.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Poor.pluralName=Poor Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Poor.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Modest.name=Modest Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Modest.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Modest.pluralName=Modest Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Modest.pluralName=\\untranslated
 
 \\\\
 \\
@@ -34670,6 +34746,27 @@ Oct.Items.Stackable.Wine.name=Wein
 
 \\\\
 \\
+\\	Oct.Items.Stackable.Skins.Hide.name=Hide
+\\
+\\\\
+Oct.Items.Stackable.Skins.Hide.name=Haut
+
+\\\\
+\\
+\\	Oct.Items.Stackable.Skins.Leather.name=Leather
+\\
+\\\\
+Oct.Items.Stackable.Skins.Leather.name=Leder
+
+\\\\
+\\
+\\	Oct.Items.Stackable.Gold.name=Gold
+\\
+\\\\
+Oct.Items.Stackable.Gold.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Stackable.RawMeat.Wolf.name=Raw Wolf
 \\
 \\\\
@@ -34702,13 +34799,6 @@ Oct.Items.Stackable.Coins.name=Münzen
 \\
 \\\\
 Oct.Items.Stackable.Silver.name=Silber
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Gold.name=Gold
-\\
-\\\\
-Oct.Items.Stackable.Gold.name=Gold
 
 \\\\
 \\
@@ -34751,20 +34841,6 @@ Oct.Items.Stackable.MealBeans.Ripe.name=Reife Bohnen
 \\
 \\\\
 Oct.Items.Stackable.MealBeans.Overripe.name=Überreife Bohnen
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Skins.Hide.name=Hide
-\\
-\\\\
-Oct.Items.Stackable.Skins.Hide.name=Haut
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Skins.Leather.name=Leather
-\\
-\\\\
-Oct.Items.Stackable.Skins.Leather.name=Leder
 
 \\\\
 \\
@@ -60868,6 +60944,34 @@ Oct.Research.Clothing.Costumes.Veil.name=Schleier
 
 \\\\
 \\
+\\	Oct.Research.Clothing.Cloak.Poor.name=Poor Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Poor.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Modest.name=Modest Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Modest.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Martial.name=Martial Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Martial.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Royal.name=Royal Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Royal.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Research.Clothing.Blouse.Cloth.name=Cloth Blouses
 \\
 \\\\
@@ -63222,14 +63326,14 @@ Oct.Settings.Game.Origin.PrincipleAdoption.tooltip=Wie stark die Startgruppe am 
 
 \\\\
 \\
-\\	Oct.Settings.Game.Characters.VisualExtremes.name=Visual Extremes
+\\	Oct.Settings.Game.Characters.VisualExtremes.name=Visual Goofiness
 \\
 \\\\
 Oct.Settings.Game.Characters.VisualExtremes.name=Visuelle Extreme
 
 \\\\
 \\
-\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls the Extremes of Character Visuals.
+\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls how Goofy the Character Visuals can be.
 \\
 \\\\
 Oct.Settings.Game.Characters.VisualExtremes.tooltip=Steuert die Extreme der Charakterdarstellung.
